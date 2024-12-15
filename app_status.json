@@ -1,7 +1,7 @@
 {
   "app_name": "esportly",
-  "new_app_version": "2.0.0",
-  "new_app_code": "2",
+  "new_app_version": "1.0.0",
+  "new_app_code": "1",
   "android_package": "com.example.esportly",
   "ios_package": "com.example.esportly",
   "windows_package": "com.example.esportly",
